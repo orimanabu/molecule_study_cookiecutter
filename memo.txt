@@ -1,4 +1,0 @@
-https://cookiecutter.readthedocs.io/en/latest/
-https://github.com/retr0h/cookiecutter-molecule
-https://github.com/crivetimihai/ansible_cookiecutter
-
