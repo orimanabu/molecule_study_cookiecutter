@@ -1,0 +1,12 @@
+{
+    "molecule_directory": "molecule",
+    "dependency_name": "galaxy",
+    "driver_name": "docker",
+    "lint_name": "yamllint",
+    "provisioner_name": "ansible",
+    "provisioner_lint_name": "ansible-lint",
+    "scenario_name": "default",
+    "role_name": "OVERRIDEN",
+    "verifier_name": "ansible",
+    "verifier_lint_name": "ansible-lint"
+}
